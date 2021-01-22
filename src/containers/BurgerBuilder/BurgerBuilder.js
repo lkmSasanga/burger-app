@@ -9,7 +9,7 @@ import Spinner from '../../components/UI/Spinner/Spinner';
 import withErrorHandler from '../../hoc/WithErrorHandler/WithErrorHandler';
 import axios from "../../axios-orders";
 
-import aux from "../../hoc/Aux/Aux";
+// import aux from "../../hoc/Aux/Aux";
 
 const INGREDIENT_PRICES = {
     salad: 0.5,
